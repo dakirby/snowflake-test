@@ -1,2 +1,4 @@
 # snowflake-test
-This repository is for testing features of Snowflake
+This repository is for testing features of Snowflake.
+
+Test commit.
